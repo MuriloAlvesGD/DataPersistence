@@ -1,0 +1,3 @@
+Aluno: undefined
+Questão 1: O que é tipagem dinâmica em JavaScript? Como ela difere da tipagem estática?
+
